@@ -27,15 +27,19 @@ La identidad de un usuario está representada en .NET por los siguientes tipos d
 <b>Generic identity</b> Se basa en un método personalizado de autenticación que se define a nivel aplicación, al ser un método personalizado por lo tanto no depende de las características del sistema de seguridad de Windows.
 </p>
 <p align="justify">
-<b>Passport identity:</b> Utiliza la autenticación del modulo de Passport de Microsoft donde los usuarios utilizan las credenciales de Hotmail o Windows Live para acceder a cualquier sistema que implemente el servicio Passport (single sign-inservice).
+<b>Passport identity</b> Utiliza la autenticación del modulo de Passport de Microsoft donde los usuarios utilizan las credenciales de Hotmail o Windows Live para acceder a cualquier sistema que implemente el servicio Passport (single sign-inservice).
 </p>
 <p align="justify">
 Si bien se recomienda utilizar los mecanismos proporcionados por el framework, .NET permite también crear mecanismos personalizados de autenticación implementando la interfaz IIdentity.
 </p>
-Al ejecutarse el programa mostrará la siguiente salida en Microsoft Windows:
+<p align="justify">
+Al ejecutarse el programa mostrará la siguiente salida en Microsoft Windows:</p>
 <img src="wiwin.png">
+<p align="justify">
 Y la siguiente salida al ejecutarse en Linux utilizando Mono
+</p>
 <img src="wimono.png">
-
+<p align="justify">
 Al ejecutar el programa <i>GenericIdentitySample</i> mostrará la siguiente salida en Microsoft Windows:
+</p>
 <img src="giwin.png">
