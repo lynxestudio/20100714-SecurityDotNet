@@ -37,5 +37,5 @@ Al ejecutarse el programa mostrará la siguiente salida en Microsoft Windows:
 Y la siguiente salida al ejecutarse en Linux utilizando Mono
 <img src="wimono.png">
 
-Al ejecutarse el programa mostrará la siguiente salida en Microsoft Windows:
+Al ejecutar el programa <i>GenericIdentitySample</i> mostrará la siguiente salida en Microsoft Windows:
 <img src="giwin.png">
