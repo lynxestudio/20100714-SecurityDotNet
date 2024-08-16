@@ -34,12 +34,12 @@ Si bien se recomienda utilizar los mecanismos proporcionados por el framework, .
 </p>
 <p align="justify">
 Al ejecutarse el programa mostrará la siguiente salida en Microsoft Windows:</p>
-<img src="wiwin.png">
+<img src="images/wiwin.png">
 <p align="justify">
 Y la siguiente salida al ejecutarse en Linux utilizando Mono
 </p>
-<img src="wimono.png">
+<img src="images/wimono.png">
 <p align="justify">
 Al ejecutar el programa <i>GenericIdentitySample</i> mostrará la siguiente salida en Microsoft Windows:
 </p>
-<img src="giwin.png">
+<img src="images/giwin.png">
