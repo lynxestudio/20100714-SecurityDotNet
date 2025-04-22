@@ -1,4 +1,4 @@
-# Conceptos Básicos de seguridad en .NET (parte I)
+﻿# .NET Security Basics
 <p align="justify">
 La seguridad es un tema que debe estar presente desde el comienzo del diseño de todo sistema de información, más aún si este sistema será utilizado por usuarios desde Internet. Dos conceptos básicos para entender la seguridad de los sistemas es la autenticación y la autorización.
 </p>
@@ -34,12 +34,14 @@ Si bien se recomienda utilizar los mecanismos proporcionados por el framework, .
 </p>
 <p align="justify">
 Al ejecutarse el programa mostrará la siguiente salida en Microsoft Windows:</p>
-<img src="images/wiwin.png">
+<img src="images/fig1.png">
 <p align="justify">
-Y la siguiente salida al ejecutarse en Linux utilizando Mono
+Al ejecutarse y obtener la Windows Identity:
 </p>
-<img src="images/wimono.png">
+<img src="images/fig2.png">
 <p align="justify">
-Al ejecutar el programa <i>GenericIdentitySample</i> mostrará la siguiente salida en Microsoft Windows:
+Al ejecutar el programa <i>GenericIdentity</i> mostrará la siguiente salida en Microsoft Windows:
 </p>
-<img src="images/giwin.png">
+<img src="images/fig3.png">
+<br/>
+<img src="images/fig4.png">
